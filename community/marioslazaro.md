@@ -16,7 +16,7 @@ npx marioslazaro
 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stacks:
 
 
 
